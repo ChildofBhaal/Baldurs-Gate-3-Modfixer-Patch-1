@@ -11,3 +11,7 @@ While I never used the Vortex mod manager, but I made it to vortex ready, I stil
 
 Please DO NOT copy my mod, DO NOT upload it elsewhere.
 
+Regards,
+
+Bhalan.
+
