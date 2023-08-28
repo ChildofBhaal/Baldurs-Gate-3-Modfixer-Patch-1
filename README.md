@@ -1,4 +1,4 @@
-# Baldurs-Gate-3-Modfixer-Patch-1
+# Baldurs Gate 3 Modfixer Patch 1
 
 While Larian has been telling the users the mods will work after their newest patch, there are still many mods which won't work with the latest release. I have created this patch, fixed right after the Patch 1 (08.25.2023).
 
